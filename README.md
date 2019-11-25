@@ -4,7 +4,7 @@
 A web based algorithm guessing platform where mentor/admin can post the code or algorithm and students need to guess the name of it within limited time frame. Students can track their progress on leader board and can apply filters to see weekly and monthly weeks. The updation of leader board would be dynamic and would not require any third person involvement. The main aim for building this project is to make student aware about famous and important algorithm in a fun way.
 
 ## Technology Stack
-* Flutter fo Web
+* Flutter for Web
 * SQLite as DB
 
 ## Requirements 
