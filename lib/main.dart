@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:name_the_code/views/home_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -9,24 +10,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Name the Code',
       home: Scaffold(
-        appBar: AppBar(
-          title: Text("Name the Code"),
-          actions: <Widget>[
-            
-          ],
-        ),
-        body: Center(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: <Widget>[
-               Text(
-          "Name the Code",
-          style: TextStyle(color: Colors.greenAccent,fontSize: 100.0),
-        ),
-            ],
-          )
-        )
+        backgroundColor: Colors.white,
+        body: HomeView()
       ),
     );
   }
