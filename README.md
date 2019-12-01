@@ -12,11 +12,26 @@ A web based algorithm guessing platform where mentor/admin can post the code or 
 * A little knowledge of Dart and Flutter. Don't worry if you are new to it, you just need knack to learn.
 * Any IDE with Flutter SDK installed (i.e. VSCode, Android Studio, etc)
 
-## Setting up the porject
-* Install the flutter by following the steps mentioned on : https://flutter.dev/docs/get-started/install
-* Add the support for web: flutter config --enable-web
+## Setting up the project
+* Download Flutter from the below link
+```
+ https://flutter.dev/docs/get-started/install
+```
+  
+* Add the web support for flutter by following the below commands.
+```
+ flutter channel dev
+ flutter upgrade
+ flutter config --enable-web
+```
 * Clone the repository 
-* Run the project : flutter run -d chrome
+```
+ https://github.com/arpit3018/NameTheCode.git
+```
+* Run the project
+```
+  flutter run -d chrome
+```
 
 ## Contributing
 You can contribute in several ways. If you know how to code or are a designer, you are welcome to contribute using pull requests.
