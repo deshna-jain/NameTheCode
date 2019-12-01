@@ -1,3 +1,7 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/arpit3018/NameTheCode/pulls)
+[![Made with Dlutter](https://img.shields.io/badge/Made_with-Flutter-blue.svg)](https://shields.io/)
+[![Slack Status](https://img.shields.io/badge/Chat%20on-Slack-orange.svg)](https://join.slack.com/t/namethecode/shared_invite/enQtODQ5ODE5OTU4NDg2LTgxZTdhYWVlZWM5NjQ4NDJjYTE2Y2E4NDM2ZmJmMGFjZWQ5YTcxMDEyMzVhOWQxNGY5YzcwYTY1ODY2MmJkYjM)
+
 # Name the Code
 
 ## About Project
